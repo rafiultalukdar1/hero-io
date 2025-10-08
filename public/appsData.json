@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co.com/CKKTWQLL/Task-Master.png",
+    "title": "TaskMaster",
+    "companyName": "Productive Labs",
+    "id": 1001,
+    "description": "TaskMaster is a powerful productivity app designed to help individuals and teams manage projects, organize priorities, and improve daily workflow. The app allows users to create tasks, subtasks, and recurring reminders that adapt to changing schedules. With intuitive drag-and-drop lists, color-coded labels, and visual boards, TaskMaster ensures projects remain clear and structured. Integrated calendar sync keeps all deadlines aligned across multiple platforms, while offline mode guarantees uninterrupted productivity. Collaboration is seamless: users can assign responsibilities, leave comments, mention teammates, and track progress through real-time updates. Analytics dashboards provide insights into task completion rates and highlight potential bottlenecks. TaskMaster emphasizes security with encrypted file storage, multi-factor authentication, and customizable data retention policies. Notifications are smartly designed to reduce distractions while alerting users about critical changes. The app integrates with email, messaging services, and cloud storage tools, enabling smooth handoffs between systems. Whether for small personal goals or large enterprise projects, TaskMaster provides the clarity, accountability, and flexibility needed to stay focused. Continuous updates and responsive customer support ensure reliability and adaptability. For users seeking balance, efficiency, and improved outcomes, TaskMaster delivers a comprehensive environment where productivity can truly thrive.",
+    "size": 52,
+    "reviews": "12.5K",
+    "ratingAvg": 4.5,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 7500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fzL30TTj/FitTrack.png",
+    "title": "FitTrack",
+    "companyName": "HealthFirst",
+    "id": 1002,
+    "description": "FitTrack is an all-in-one health and fitness app that helps users monitor workouts, nutrition, and overall wellness. The app tracks steps, heart rate, sleep, and exercise sessions automatically, while also allowing manual logging for greater flexibility. Personalized training plans adapt to user goals such as building strength, losing weight, or improving endurance. FitTrack includes a food diary with barcode scanning, macro analysis, and recipe suggestions tailored to dietary preferences. Gamified challenges, streaks, and community leaderboards keep users motivated and accountable. For deeper guidance, certified coaches provide one-on-one feedback through premium subscriptions. Visual dashboards highlight trends in activity and nutrition, making it easy to track progress over weeks and months. The app’s habit-building system rewards consistency and reminds users to stay on track. With strict privacy controls, users decide what health data to share. Wearable integration ensures seamless syncing with smartwatches and trackers. FitTrack encourages sustainable lifestyle changes by combining education, motivation, and smart data insights. Its intuitive design makes it accessible to beginners while offering advanced features for serious athletes. By focusing on small, steady improvements, FitTrack empowers users to create routines that last and achieve meaningful results in their wellness journey.",
+    "size": 60,
+    "reviews": "9.4K",
+    "ratingAvg": 4.2,
+    "downloads": 8.5,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0wg3s1R/Budget-Buddy.png",
+    "title": "BudgetBuddy",
+    "companyName": "FinanceWorks",
+    "id": 1003,
+    "description": "BudgetBuddy is a smart personal finance app built to help users track expenses, manage budgets, and achieve savings goals. The app automatically categorizes transactions from linked bank accounts, credit cards, or manual entries, offering a clear overview of spending habits. Colorful charts and category reports highlight areas where money can be saved, while bill reminders ensure payments are never missed. BudgetBuddy supports customizable budgets and savings envelopes, allowing users to allocate funds toward essentials, leisure, and long-term goals. The app projects realistic timelines for reaching savings targets such as vacations, emergency funds, or major purchases. Security features include biometric logins, encrypted storage, and fraud alerts, ensuring financial information remains safe. Multi-currency support and automatic exchange rate updates make it ideal for international users and travelers. Users receive monthly insights, spending summaries, and personalized tips to encourage better money habits. Export options make BudgetBuddy useful for tax preparation or professional financial planning. The interface is designed for simplicity, making it approachable for beginners yet powerful enough for advanced users. BudgetBuddy empowers people to control their finances, reduce unnecessary spending, and build confidence in money management. With continuous updates and strong support, it serves as a reliable partner for long-term financial health.",
+    "size": 48,
+    "reviews": "7.8K",
+    "ratingAvg": 4.1,
+    "downloads": 6.4,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 3100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/k2BsJCzF/Study-Smart.png",
+    "title": "StudySmart",
+    "companyName": "EduTech Global",
+    "id": 1004,
+    "description": "StudySmart is a modern education app designed to make learning more efficient, interactive, and enjoyable. The app offers a vast library of study materials, quizzes, flashcards, and personalized practice tests tailored to each learner’s strengths and weaknesses. Smart algorithms adapt content difficulty based on performance, ensuring steady progress without overwhelming students. Integrated note-taking, highlighting, and bookmarking features allow learners to organize key concepts for quick review. StudySmart supports collaboration by enabling group study sessions, shared resources, and live discussions. The app is compatible with multiple devices, ensuring that progress syncs seamlessly between smartphones, tablets, and desktops. Offline mode makes materials accessible without an internet connection, ideal for travel or limited connectivity. Gamified achievements, streaks, and progress badges motivate consistent learning and boost engagement. Parents and teachers can track performance metrics through dashboards, while learners gain detailed reports to measure improvement over time. StudySmart also integrates with popular learning management systems, expanding its utility for schools and universities. With strong data protection and customizable privacy settings, users remain in control of their information. Designed to support a wide range of subjects and exam preparations, StudySmart empowers learners to achieve academic success with confidence and clarity.",
+    "size": 55,
+    "reviews": "8.9K",
+    "ratingAvg": 4.3,
+    "downloads": 7.2,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cckGk6LY/Travel-Mate.png",
+    "title": "TravelMate",
+    "companyName": "Journey Apps",
+    "id": 1005,
+    "description": "TravelMate is an all-in-one travel companion app built to simplify trip planning, navigation, and exploration. Users can organize flights, hotel bookings, itineraries, and transport options in a single place, ensuring stress-free journeys. The app offers smart recommendations for attractions, restaurants, and cultural activities based on user preferences and location. Offline maps and translation tools provide reliable guidance in unfamiliar destinations without requiring constant internet access. Real-time flight tracking, weather updates, and emergency alerts keep travelers informed and prepared. TravelMate includes expense tracking features, helping users manage travel budgets and split costs with friends or family. Social features allow sharing of itineraries, photos, and travel experiences, fostering connections with fellow explorers. Integration with ride-sharing, navigation, and booking platforms provides a seamless experience from planning to arrival. Security features like encrypted document storage ensure passports and tickets are safely accessible on the go. The app’s design emphasizes ease of use with intuitive navigation and personalized suggestions. Whether for solo backpackers or business professionals, TravelMate adapts to various travel styles. Continuous updates and multilingual support enhance accessibility for global audiences. TravelMate aims to make every journey smoother, more enjoyable, and more memorable by combining organization, convenience, and discovery into one trusted app.",
+    "size": 62,
+    "reviews": "10.2K",
+    "ratingAvg": 4.4,
+    "downloads": 9.1,
+    "ratings": [
+      { "name": "1 star", "count": 550 },
+      { "name": "2 star", "count": 750 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KzBf9hpw/Photo-Perfect.png",
+    "title": "PhotoPerfect",
+    "companyName": "PixelCraft Studios",
+    "id": 1006,
+    "description": "PhotoPerfect is a versatile photo editing application designed to make professional-quality editing accessible to everyone. Whether you are a beginner exploring creativity or a seasoned photographer fine-tuning your portfolio, PhotoPerfect provides tools to enhance, retouch, and stylize your photos with ease. The app includes advanced filters, background removers, lighting adjustments, and AI-powered enhancements that bring out details and balance colors naturally. Unlike many apps that overwhelm users with complexity, PhotoPerfect maintains a clean and simple interface, ensuring quick navigation and efficient editing. Users can apply one-touch filters for instant results or dive deeper into manual controls for complete creative freedom. With options like blemish correction, red-eye removal, skin smoothing, and exposure adjustments, it is a comprehensive toolkit for portrait perfection. Cloud integration ensures your edits are saved and synchronized across devices, so you never lose your progress. The app also supports batch editing, making it perfect for influencers, photographers, or small businesses managing multiple images. PhotoPerfect empowers anyone to transform raw images into stunning works of art while saving time. Whether it’s for social media, personal collections, or professional projects, this app helps users tell their story through visually captivating pictures with minimal effort.",
+    "size": 70,
+    "reviews": "11.2K",
+    "ratingAvg": 4.6,
+    "downloads": 9.7,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4nXjZyFf/MindCalm.png",
+    "title": "MindCalm",
+    "companyName": "ZenSpace",
+    "id": 1007,
+    "description": "MindCalm is a mindfulness and meditation app built to reduce stress, improve focus, and promote overall mental well-being. It offers guided meditation sessions, breathing exercises, sleep stories, and calming background sounds to help users find balance in daily life. Designed for both beginners and experienced practitioners, MindCalm provides step-by-step programs tailored to personal goals such as reducing anxiety, improving sleep, or boosting productivity. The app also includes mood tracking and progress visualization features that encourage consistency and self-awareness. MindCalm’s content is created in collaboration with professional psychologists and meditation experts, ensuring scientifically backed techniques. Its library includes quick three-minute meditations for busy schedules, as well as longer sessions for deep relaxation. Users can personalize experiences by selecting background music, adjusting narration speed, or choosing themes like gratitude, focus, or emotional balance. Offline access makes it possible to practice mindfulness anytime, anywhere, without needing an internet connection. With a sleek and calming interface, MindCalm helps transform stress into tranquility and teaches habits that improve long-term resilience. Whether it’s starting the day with clarity, resetting during stressful moments, or winding down at night, MindCalm supports mental peace and empowers users to create a healthier, more mindful lifestyle.",
+    "size": 58,
+    "reviews": "8.6K",
+    "ratingAvg": 4.4,
+    "downloads": 7.2,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ZRndbTpd/Quick-Chef.png",
+    "title": "QuickChef",
+    "companyName": "KitchenTech",
+    "id": 1008,
+    "description": "QuickChef is the ultimate cooking companion designed to simplify meal preparation and inspire creativity in the kitchen. The app provides step-by-step recipes, video tutorials, and smart meal planning tools suitable for beginners and experienced cooks alike. With thousands of recipes across global cuisines, QuickChef ensures there’s always something new to try. Users can filter recipes by dietary preferences, cooking time, or available ingredients, making it easier to plan meals on busy days. The integrated grocery list feature automatically generates shopping lists from selected recipes, ensuring nothing is forgotten. QuickChef also includes a smart pantry tracker that suggests dishes based on items you already have, helping reduce food waste. Video-guided instructions make complex recipes approachable, while voice-assisted cooking allows hands-free use during meal prep. For health-conscious users, nutritional information is included for every dish, making balanced eating more achievable. QuickChef keeps your cooking organized with weekly planners, favorite collections, and personalized recommendations. Whether you’re looking for a quick breakfast, a family dinner, or a special holiday meal, QuickChef provides reliable guidance. It transforms cooking from a daily chore into an enjoyable experience by combining convenience, learning, and delicious results in one well-designed platform.",
+    "size": 64,
+    "reviews": "9.4K",
+    "ratingAvg": 4.5,
+    "downloads": 8.5,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3mZyvJwC/Work-Flow-Pro.png",
+    "title": "WorkFlowPro",
+    "companyName": "NextGen Tools",
+    "id": 1009,
+    "description": "WorkFlowPro is a powerful productivity app that streamlines task management, collaboration, and project tracking for individuals and teams. Designed with professionals in mind, it combines task lists, calendars, file sharing, and real-time chat into one platform. Teams can assign tasks, set deadlines, and monitor progress through intuitive dashboards. The app integrates seamlessly with popular tools like Google Drive, Slack, and Trello, making it a central hub for workflow management. WorkFlowPro’s flexible structure adapts to different working styles, whether agile teams using sprints or individuals managing daily tasks. Notifications and reminders ensure important deadlines are never missed, while analytics provide insight into productivity trends. Offline mode allows users to stay productive without internet access, syncing automatically once reconnected. Security is a priority, with encrypted file storage and secure communication channels built-in. For managers, the app provides visibility into team performance, bottlenecks, and resource allocation. For employees, it reduces stress by keeping everything organized in one place. Whether you’re running a startup, managing corporate projects, or organizing personal goals, WorkFlowPro offers the tools to stay efficient and connected. Its simple interface, combined with powerful features, makes it a go-to choice for boosting productivity and collaboration in modern work environments.",
+    "size": 75,
+    "reviews": "10.5K",
+    "ratingAvg": 4.3,
+    "downloads": 9.1,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 3800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0yvST16m/LearnIt.png",
+    "title": "LearnIt",
+    "companyName": "BrightMinds",
+    "id": 1010,
+    "description": "LearnIt is an educational app built to make learning engaging, flexible, and accessible for people of all ages. Covering subjects from math and science to language learning and professional development, LearnIt provides interactive lessons, quizzes, and video tutorials. Each course is designed by experts to ensure accuracy and clarity. The app personalizes the learning experience by adapting to users’ strengths and weaknesses, recommending tailored exercises to build confidence. Gamification elements such as badges, streaks, and leaderboards keep learners motivated and excited. Offline access ensures uninterrupted learning even without an internet connection. LearnIt also features progress tracking, allowing users to see their improvements over time and set long-term goals. For language learners, the app includes vocabulary practice, pronunciation guides, and interactive dialogues. For professionals, it offers certification courses and skill-building modules to advance careers. Parents can monitor their children’s progress, making it a trusted tool for families. Whether preparing for exams, exploring new hobbies, or pursuing lifelong learning, LearnIt brings knowledge to your fingertips. With a clean design and easy navigation, it makes education less intimidating and more enjoyable. LearnIt empowers learners to grow and succeed at their own pace while making learning fun and rewarding.",
+    "size": 80,
+    "reviews": "12.3K",
+    "ratingAvg": 4.6,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 750 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 5450 }
+    ]
+  },
+   {
+    "image": "https://i.ibb.co.com/Y7d5hvYg/GameHub.png",
+    "title": "GameHub",
+    "companyName": "PlayZone",
+    "id": 1011,
+    "description": "GameHub is a central platform for mobile gaming enthusiasts, offering a curated selection of popular and trending games. Users can discover new titles, track in-game achievements, and connect with friends to compare scores and compete on leaderboards. The app provides recommendations based on individual preferences, gameplay history, and social trends. GameHub supports cloud saves, allowing progress to be synced across multiple devices seamlessly. Notifications keep players informed about new releases, in-app events, and limited-time offers. Social features include the ability to join communities, participate in discussions, and follow favorite creators. GameHub also includes tutorials, guides, and tips for improving skills in competitive games. With parental controls and safe-play settings, it ensures a secure environment for younger gamers. The app integrates with major app stores and gaming platforms, providing quick access to downloads and updates. Its intuitive interface allows users to browse by genre, rating, or popularity, simplifying game discovery. GameHub encourages engagement through daily challenges and event rewards. By combining convenience, social interaction, and rich content, GameHub transforms mobile gaming into a connected, enjoyable, and interactive experience for players of all ages.",
+    "size": 65,
+    "reviews": "11.2K",
+    "ratingAvg": 4.5,
+    "downloads": 9.8,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rGZG7Xyx/BuySmart.png",
+    "title": "ShopEase",
+    "companyName": "BuySmart",
+    "id": 1012,
+    "description": "ShopEase is a comprehensive shopping app designed to streamline online purchasing and maximize convenience. Users can browse a wide range of products across categories such as electronics, fashion, home goods, and more. The app offers personalized recommendations based on browsing history, wish lists, and purchase behavior. ShopEase includes features like price comparison, coupon aggregation, and flash deals to help users save money. One-click checkout, multiple payment options, and secure transactions make shopping fast and reliable. Real-time order tracking keeps users updated on shipping progress and expected delivery times. ShopEase integrates with loyalty programs, offering rewards and discounts to repeat customers. Customer reviews, ratings, and product guides provide informed decision-making for every purchase. For sellers, the app provides tools to manage inventory, promotions, and analytics. ShopEase also supports voice search and image recognition to quickly find desired items. Its intuitive design ensures a smooth, enjoyable shopping experience while prioritizing security and privacy. By combining convenience, savings, and personalized service, ShopEase transforms online shopping into an effortless and rewarding activity for users around the world.",
+    "size": 70,
+    "reviews": "10.8K",
+    "ratingAvg": 4.4,
+    "downloads": 9.4,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/CRXdYk3/Weatherly.png",
+    "title": "Weatherly",
+    "companyName": "SkyCast",
+    "id": 1013,
+    "description": "Weatherly is an advanced weather forecasting app that provides real-time information, alerts, and detailed analytics for locations worldwide. Users can view hourly, daily, and weekly forecasts, along with radar maps, precipitation probabilities, wind speed, and temperature trends. Severe weather alerts ensure safety by notifying users about storms, floods, and other hazards. The app includes pollen counts, UV indexes, and air quality indicators for health-conscious users. Weatherly allows custom locations and widgets, making it easy to track multiple areas simultaneously. Offline access provides forecasts even when internet connectivity is limited. The app integrates with calendars to help plan outdoor events around weather conditions. With a sleek and intuitive interface, visualizations are easy to interpret, while graphs and charts provide deeper insights. Notifications are customizable to reduce distraction while ensuring critical updates are received promptly. Weatherly also incorporates historical weather data and trend analysis for predictive insights. The app emphasizes privacy, securing location information and offering opt-in telemetry for improved forecast accuracy. Whether for travel, outdoor activities, or daily planning, Weatherly provides reliable, timely, and actionable weather information to keep users safe and informed.",
+    "size": 55,
+    "reviews": "9.4K",
+    "ratingAvg": 4.3,
+    "downloads": 8.2,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/d4NYZYyH/Music-Flow.png",
+    "title": "MusicFlow",
+    "companyName": "TuneStream",
+    "id": 1014,
+    "description": "MusicFlow is a feature-rich music streaming app that allows users to discover, listen, and share their favorite songs anytime, anywhere. The app provides curated playlists, personalized recommendations, and algorithmically generated radio stations based on user preferences. High-quality audio streaming ensures an immersive listening experience, while offline downloads allow access without an internet connection. Users can follow artists, create and share custom playlists, and explore trending tracks in real time. MusicFlow includes lyrics display, mood-based suggestions, and social sharing to enhance engagement. Integration with smart speakers, car audio systems, and wearable devices ensures seamless playback across multiple platforms. Users can explore new genres, albums, and live performances, keeping their music experience fresh and dynamic. Premium features include ad-free listening, unlimited skips, and exclusive content for subscribers. MusicFlow also provides insights into listening habits, helping users discover patterns and expand their musical horizons. The app prioritizes user privacy, secure accounts, and proper licensing for all content. Designed for music lovers of all ages, MusicFlow combines convenience, discovery, and high-quality audio, making it the ultimate companion for entertainment, creativity, and musical exploration.",
+    "size": 68,
+    "reviews": "11.5K",
+    "ratingAvg": 4.6,
+    "downloads": 10.2,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nNz55r3f/Crypto-Vault.png",
+    "title": "CryptoVault",
+    "companyName": "SecureChain",
+    "id": 1015,
+    "description": "CryptoVault is a secure and user-friendly cryptocurrency wallet designed for managing digital assets efficiently. Users can store, send, receive, and swap multiple cryptocurrencies in one app with peace of mind. Advanced security features include biometric authentication, encrypted storage, and hardware wallet integration for enhanced protection. The app offers real-time market tracking, portfolio analysis, and price alerts to help users make informed decisions. CryptoVault supports in-app trading, staking, and DeFi interactions, providing a comprehensive platform for cryptocurrency enthusiasts. Transaction history is clearly organized, with options to export data for accounting or taxation purposes. Push notifications keep users informed of significant market changes and pending transactions. The app emphasizes privacy, ensuring sensitive information never leaves the device unencrypted. User experience is designed to simplify complex crypto operations while providing advanced functionality for experienced investors. Educational resources, tutorials, and support articles help newcomers understand blockchain concepts and wallet management. With multi-platform sync, users can access their assets safely across devices. CryptoVault aims to make digital asset management secure, convenient, and intuitive, giving users confidence while navigating the evolving cryptocurrency landscape.",
+    "size": 75,
+    "reviews": "10.2K",
+    "ratingAvg": 4.5,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4wSTXDMm/Wellness-Works.png",
+    "title": "FitLife",
+    "companyName": "WellnessWorks",
+    "id": 1016,
+    "description": "FitLife is a comprehensive health and fitness app designed to help users lead a balanced, active lifestyle. The app provides personalized workout plans, nutrition tracking, and wellness tips tailored to individual goals such as weight loss, muscle gain, or improved endurance. Users can log daily activities, monitor sleep patterns, and track calorie intake with ease. FitLife integrates wearable devices to provide real-time insights on heart rate, steps, and overall activity levels. Guided workouts include video demonstrations, voice instructions, and adaptive difficulty levels to ensure proper form and prevent injuries. Nutrition tracking features include meal planning, grocery lists, and macro analysis, helping users make informed dietary choices. The app encourages consistency through streaks, achievements, and social challenges, fostering motivation and accountability. Expert guidance from certified trainers and nutritionists is available for premium users, enhancing the learning experience. Offline access ensures workouts and plans are available anytime, while progress dashboards provide detailed insights into performance trends. FitLife emphasizes privacy, encrypting all health data and allowing users to control shared information. By combining exercise, nutrition, and motivation in one intuitive platform, FitLife empowers users to achieve long-term wellness goals and maintain a healthy lifestyle with confidence and enjoyment.",
+    "size": 72,
+    "reviews": "9.7K",
+    "ratingAvg": 4.5,
+    "downloads": 8.8,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rfMVPxtv/Globe-Trek.png",
+    "title": "TravelScout",
+    "companyName": "GlobeTrek",
+    "id": 1017,
+    "description": "TravelScout is an intelligent travel planning app that simplifies trip organization, enhances exploration, and provides personalized recommendations. Users can create detailed itineraries, manage bookings, and store travel documents securely in one place. The app suggests destinations, attractions, restaurants, and activities based on individual preferences, budget, and travel history. TravelScout includes offline maps, translation tools, and currency converters, making international travel stress-free. Real-time flight updates, weather alerts, and emergency notifications help users stay prepared and informed. Expense tracking allows travelers to manage budgets and monitor spending during trips. Social features enable users to share experiences, photos, and tips with friends and the community. TravelScout integrates with ride-sharing, navigation, and booking platforms to provide seamless transitions between transport and activities. Personalized notifications and reminders ensure users never miss flights, check-ins, or reservations. The app also highlights local events, cultural experiences, and hidden gems to enrich travel adventures. Security is a priority, with encrypted storage for passports, tickets, and sensitive information. Designed for solo travelers, families, and business professionals, TravelScout combines organization, discovery, and convenience, transforming every journey into a memorable, enjoyable, and well-prepared experience.",
+    "size": 68,
+    "reviews": "8.8K",
+    "ratingAvg": 4.4,
+    "downloads": 8.1,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VWhG9GXq/Note-Master.png",
+    "title": "NoteMaster",
+    "companyName": "SmartApps",
+    "id": 1018,
+    "description": "NoteMaster is a versatile note-taking application designed to organize thoughts, ideas, and tasks efficiently. Users can create text notes, checklists, voice memos, and attachments, keeping all information centralized and easy to access. The app offers customizable folders, tags, and color-coded labels to categorize content intuitively. Advanced search functionality enables users to locate specific notes quickly, even within large collections. NoteMaster supports collaboration, allowing multiple users to share, edit, and comment on notes in real time. Synchronization across devices ensures seamless access from smartphones, tablets, and desktops. Security features include encrypted storage, password protection, and biometric authentication to safeguard sensitive information. The app also includes reminders, calendar integration, and priority flags, helping users stay on top of deadlines and important tasks. Offline access ensures that notes are available even without internet connectivity. With its user-friendly interface and flexible structure, NoteMaster caters to students, professionals, and creatives seeking a reliable digital notebook. Whether for project planning, journaling, or quick idea capture, NoteMaster transforms note-taking into a structured, efficient, and productive experience, helping users achieve clarity and organization in their daily activities.",
+    "size": 60,
+    "reviews": "9.5K",
+    "ratingAvg": 4.5,
+    "downloads": 8.2,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fdG2QN97/Daily-Planner.png",
+    "title": "DailyPlanner",
+    "companyName": "OrganizeIt",
+    "id": 1019,
+    "description": "DailyPlanner is a comprehensive scheduling and productivity app designed to help users organize their daily routines, set goals, and manage tasks efficiently. It provides a customizable calendar, task lists, reminders, and goal-setting features that can be tailored to individual preferences. Users can create recurring tasks, categorize events, and color-code priorities for better visual organization. DailyPlanner also includes habit tracking, progress charts, and motivational prompts to encourage consistency and productivity. Integration with email, cloud services, and other productivity tools allows seamless workflow management. Offline mode ensures access to schedules and plans without internet connectivity, while real-time syncing keeps all devices updated. The app offers collaborative features, enabling shared calendars and team task management. Notifications are intelligently managed to avoid distractions while keeping users informed of upcoming tasks and deadlines. DailyPlanner’s user-friendly interface simplifies planning for both personal and professional life. By combining flexibility, organization, and motivation, the app helps users maximize efficiency, achieve goals, and maintain balance. Its thoughtful design ensures that users can prioritize effectively, manage time wisely, and reduce stress, transforming daily planning into a structured, productive, and satisfying experience.",
+    "size": 58,
+    "reviews": "9.1K",
+    "ratingAvg": 4.4,
+    "downloads": 7.9,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/8TjfQLc/Lingua-Tech.png",
+    "title": "LanguagePro",
+    "companyName": "LinguaTech",
+    "id": 1020,
+    "description": "LanguagePro is a dynamic language learning app designed to help users master new languages quickly and effectively. The app provides interactive lessons, vocabulary exercises, speaking practice, and real-life conversation simulations to enhance comprehension and fluency. Personalized learning paths adapt to the user’s level and pace, ensuring gradual improvement without overwhelming the learner. LanguagePro includes audio recordings by native speakers, pronunciation guides, and grammar tips to build confidence in speaking and writing. Gamified elements such as quizzes, streaks, and achievements keep learners motivated and engaged. Users can track progress, review weak areas, and set specific goals for consistent improvement. The app supports multiple languages and offers cultural insights to foster understanding and contextual learning. Offline mode allows users to practice anywhere, anytime. LanguagePro also includes community features, enabling interaction with fellow learners and language tutors for guidance and feedback. The app emphasizes an enjoyable learning experience with intuitive navigation and visually appealing content. Designed for students, travelers, and professionals, LanguagePro empowers users to expand communication skills, enhance career opportunities, and embrace new cultures while making language learning accessible, engaging, and effective.",
+    "size": 75,
+    "reviews": "10K",
+    "ratingAvg": 4.5,
+    "downloads": 8.6,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 3800 }
+    ]
+  }
+]
