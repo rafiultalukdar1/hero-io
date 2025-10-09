@@ -9,7 +9,7 @@ const Header = () => {
 
     return (
         <>
-            <div className={`absolute top-0 w-[290px] h-full bg-[#fff] shadow-[6px_0_6px_rgba(0,0,0,0.1)] flex flex-col gap-[35px] duration-500  ${open ? 'left-0' : 'left-[-290px]'}`}>
+            <div className={`absolute top-0 w-[290px] h-full bg-[#fff] shadow-[6px_0_6px_rgba(0,0,0,0.1)] flex flex-col gap-[35px] duration-500 z-[9999]  ${open ? 'left-0' : 'left-[-290px]'}`}>
                 <div className='py-[25px] px-[15px] border-b border-[#E9E9E9]'>
                     <img className='max-w-[110px] cursor-pointer' src={logoImg} alt="" />
                 </div>

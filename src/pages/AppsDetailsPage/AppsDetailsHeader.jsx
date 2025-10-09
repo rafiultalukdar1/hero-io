@@ -1,15 +1,25 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import downloadImg from '../../assets/images/apps-download.png';
 import starImg from '../../assets/images/apps-star.png';
 import likeImg from '../../assets/images/apps-like.png';
-import { addStored } from '../../Utilities/AddLocalStorage';
+import { addStored, getStoredApps } from '../../Utilities/AddLocalStorage';
 
 const AppsDetailsHeader = ({singleApps}) => {
 
     const {image, title, companyName, downloads, size, ratingAvg, reviews, id} = singleApps;
 
+    const [clicked, setClicked] = useState(false);
+
+    useEffect(() => {
+        const installedApps = getStoredApps();
+        if (installedApps.includes(id)) {
+            setClicked(true);
+        }
+    }, [id]);
+
     const handleInstallApps = (id) => {
-        addStored(id)
+        addStored(id);
+        setClicked(true)
     }
 
     return (
@@ -44,7 +54,7 @@ const AppsDetailsHeader = ({singleApps}) => {
                         </div>
                     </div>
                     <div>
-                        <button onClick={() => handleInstallApps(id)} className='text-[#FFF] text-[16px] md:text-[20px] font-[600] rounded-[4px] bg-[#00D390] px-[20px] py-[10px]'>Install Now ({size} MB)</button>
+                        <button onClick={() => handleInstallApps(id)} className={`text-[16px] md:text-[20px] font-[600] rounded-[4px] px-[20px] py-[10px] ${clicked ? 'bg-[#DDDDDD] text-[#000] cursor-not-allowed' : 'bg-[#00D390] hover:bg-[#00c280] text-[#FFF]'}`}>{clicked ? "Installed" : `Install Now (${size} MB)`}</button>
                     </div>
                 </div>
             </div>

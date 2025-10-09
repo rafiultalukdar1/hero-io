@@ -2,9 +2,9 @@ import React from 'react';
 import downloadImg from '../../assets/images/download.png';
 import starImg from '../../assets/images/star.png';
 
-const Install = ({install}) => {
+const Install = ({install, handleRemove}) => {
 
-    const {image, title, downloads, ratingAvg, size} = install;
+    const {image, title, downloads, ratingAvg, size, id} = install;
 
     return (
         <>
@@ -21,7 +21,7 @@ const Install = ({install}) => {
                     </div>
                 </div>
                 <div>
-                    <button className='text-[#FFF] text-[16px] md:text-[20px] font-[600] rounded-[4px] bg-[#00D390] px-[20px] py-[10px]'>Uninstall</button>
+                    <button onClick={() => handleRemove(id)} className='text-[#FFF] text-[16px] md:text-[20px] font-[600] rounded-[4px] bg-[#00D390] px-[20px] py-[10px]'>Uninstall</button>
                 </div>
             </div>
         </>

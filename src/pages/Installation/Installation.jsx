@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router';
-import { getStoredApps } from '../../Utilities/AddLocalStorage';
+import { getStoredApps, removeFromLocalStorage } from '../../Utilities/AddLocalStorage';
 import Install from '../Install/Install';
 
 const Installation = () => {
@@ -14,16 +14,21 @@ const Installation = () => {
         const newInstalledData = installedData.map(id => parseInt(id));
         const installList = data.filter(newApp => newInstalledData.includes(newApp.id));
         setInstallList(installList);
-    }, []);
+    }, [data]);
 
     const handleShort = (type) => {
         setShort(type);
         setOpen(false);
     };
 
+    const handleRemove = (id) => {
+        removeFromLocalStorage(id);
+        setInstallList(prev => prev.filter(app => app.id !== id));
+    };
+
     const sortedList = [...installList].sort((a, b) => {
-        const sizeA = parseFloat(a.size);
-        const sizeB = parseFloat(b.size);
+        const sizeA = parseFloat(a.downloads);
+        const sizeB = parseFloat(b.downloads);
 
         if (short === "low") {
             return sizeA - sizeB;
@@ -54,12 +59,12 @@ const Installation = () => {
                     </p>
                 </div>
 
-                <div className='flex justify-between items-center mt-[30px] relative'>
-                    <h2 className='text-[#001931] text-[24px] font-semibold'>
+                <div className='flex justify-between items-center mt-[30px]'>
+                    <h2 className='text-[#001931] text-[20px] md:text-[24px] font-semibold'>
                         {sortedList.length} Apps Found
                     </h2>
 
-                    <div className='relative'>
+                    <div className='relative z-[33]'>
                         <button
                             onClick={() => setOpen(!open)}
                             className='text-[#627382] text-[16px] border border-[#D2D2D2] rounded-md px-4 py-2 bg-white hover:bg-gray-50 transition'
@@ -81,7 +86,7 @@ const Installation = () => {
                 </div>
                 <div className='pt-[22px] flex flex-col gap-[16px]'>
                     {
-                        sortedList.map(install => (<Install key={install.id} install={install}></Install>))
+                        sortedList.map(install => (<Install key={install.id} install={install} handleRemove={handleRemove}></Install>))
                     }
                 </div>
             </div>

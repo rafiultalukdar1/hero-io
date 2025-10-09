@@ -11,7 +11,6 @@ It features Trending Apps, Installation details, and download/review statistics.
 - **React DOM** – Render components in browser  
 - **React Router** – Page navigation  
 - **Tailwind CSS** – Quick styling  
-- **@tailwindcss/vite** – Tailwind + Vite integration  
 - **Lucide React** – Icons  
 - **React Spinners** – Loading indicators  
 - **React Toastify** – Notifications  

@@ -22,4 +22,13 @@ const addStored = (id) => {
     }
 };
 
-export { addStored, getStoredApps };
+const removeFromLocalStorage = (id) => {
+    const installedAppsData = getStoredApps();
+    const updatedInstalledList = installedAppsData.filter(
+        (appId) => String(appId) !== String(id)
+    );
+    localStorage.setItem("installed", JSON.stringify(updatedInstalledList));
+    toast.success("App Uninstalled.");
+};
+
+export { addStored, getStoredApps, removeFromLocalStorage};
