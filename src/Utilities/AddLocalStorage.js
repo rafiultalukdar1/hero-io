@@ -1,3 +1,5 @@
+import { toast } from "react-toastify";
+
 const getStoredApps = () => {
     const storeAppsSTR = localStorage.getItem("installed");
     if (storeAppsSTR) {
@@ -11,12 +13,12 @@ const getStoredApps = () => {
 const addStored = (id) => {
     const storeAppsData = getStoredApps();
     if (storeAppsData.includes(id)) {
-        alert('Already Installed.');
+        toast.error('Already Installed.');
     } else {
         storeAppsData.push(id);
         const data = JSON.stringify(storeAppsData);
         localStorage.setItem("installed", data);
-        alert('App Installed Successfully!');
+        toast.success('App Installed Successfully!');
     }
 };
 
