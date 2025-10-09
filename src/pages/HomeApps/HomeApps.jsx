@@ -6,7 +6,7 @@ import { Link } from 'react-router';
 
 const HomeApps = ({singleApps}) => {
 
-    const {image, title, size, ratingAvg, id} = singleApps;
+    const {image, title, downloads, ratingAvg, id} = singleApps;
 
     return (
         <>
@@ -17,7 +17,7 @@ const HomeApps = ({singleApps}) => {
                 <div className='flex justify-between items-center'>
                     <div className='flex items-center gap-[8px] py-[6px] px-[10px] rounded-[4px] bg-[#F1F5E8]'>
                         <img src={download} alt="" />
-                        <span className='text-[#00D390] text-[15px] font-[500]'>{size} M</span>
+                        <span className='text-[#00D390] text-[15px] font-[500]'>{downloads} M</span>
                     </div>
                     <div className='flex items-center gap-[8px] py-[6px] px-[10px] rounded-[4px] bg-[#FFF0E1]'>
                         <img src={star} alt="" />

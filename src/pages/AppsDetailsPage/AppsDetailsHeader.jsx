@@ -2,10 +2,15 @@ import React from 'react';
 import downloadImg from '../../assets/images/apps-download.png';
 import starImg from '../../assets/images/apps-star.png';
 import likeImg from '../../assets/images/apps-like.png';
+import { addStored } from '../../Utilities/AddLocalStorage';
 
 const AppsDetailsHeader = ({singleApps}) => {
 
-    const {image, title, companyName, downloads, size, ratingAvg, reviews} = singleApps;
+    const {image, title, companyName, downloads, size, ratingAvg, reviews, id} = singleApps;
+
+    const handleInstallApps = (id) => {
+        addStored(id)
+    }
 
     return (
         <>
@@ -39,7 +44,7 @@ const AppsDetailsHeader = ({singleApps}) => {
                         </div>
                     </div>
                     <div>
-                        <button className='text-[#FFF] text-[16px] md:text-[20px] font-[600] rounded-[4px] bg-[#00D390] px-[20px] py-[10px]'>Install Now ({size} MB)</button>
+                        <button onClick={() => handleInstallApps(id)} className='text-[#FFF] text-[16px] md:text-[20px] font-[600] rounded-[4px] bg-[#00D390] px-[20px] py-[10px]'>Install Now ({size} MB)</button>
                     </div>
                 </div>
             </div>
