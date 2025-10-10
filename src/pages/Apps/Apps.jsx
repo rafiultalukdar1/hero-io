@@ -1,6 +1,6 @@
 import { Search } from 'lucide-react';
 import React, { useState, useEffect } from 'react';
-import { NavLink, useLoaderData } from 'react-router';
+import { useLoaderData } from 'react-router';
 import AppItems from '../AppItems/AppItems';
 import { FadeLoader } from 'react-spinners';
 
@@ -21,6 +21,10 @@ const Apps = () => {
         
         return () => clearTimeout(timeout);
     }, [search, apps]);
+
+    const handleButton = () => {
+        window.location.href = '/apps'
+    }
 
     return (
         <div className='py-[55px] md:py-[80px]'>
@@ -56,7 +60,7 @@ const Apps = () => {
                     ) : (
                         <div className='col-span-12 text-center'>
                             <h2 className='text-[#001931] text-center text-[32px] md:text-[40px] lg:text-[55px] font-[600] pt-[35px] md:pt-[50px] lg:pt-[70px]'>NO APPS FOUND!</h2>
-                            <NavLink to='/'><button className='rounded-[4px] bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)] py-[12px] px-[38px] text-[#FFF] text-[16px] font-[600] mt-[16px]'>Show All Apps</button></NavLink>
+                            <button onClick={handleButton} className='rounded-[4px] bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)] py-[12px] px-[38px] text-[#FFF] text-[16px] font-[600] mt-[16px]'>Show All Apps</button>
                         </div>
                     )}
                 </div>
